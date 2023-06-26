@@ -2,10 +2,10 @@ import { ButtonContainer } from "./styles";
 
 
 
-function Button() {
+function Button({label, onClick}) {
     return (
-      <ButtonContainer type="button">
-        
+       <ButtonContainer onClick={onClick} type="button">
+        {label}
       </ButtonContainer>
       
     );
