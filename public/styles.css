@@ -1,0 +1,82 @@
+
+.class1 {
+    
+    padding: 30px;
+    border: 1px solid #CDCDCD;
+    background-color: forestgreen;
+    color: #FFFFFF;
+    font-size: 50px;
+    font-weight: 700;
+    box-shadow: 0px 10px 50px rgba(1, 0, 0, 0,9);    
+    flex: 1 ;
+    
+    &:hover {
+        opacity: 0.6;
+        
+    }
+}
+
+.class2 {
+    
+    padding: 30px;
+    border: 1px solid #CDCDCD;
+    background-color: rgb(93, 4, 236);
+    color: #FFFFFF;
+    font-size: 50px;
+    font-weight: 700;
+    flex: 1;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    
+    &:hover {
+        opacity: 0.6;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    }
+}
+.class3 {
+    
+    padding: 30px;
+    border: 1px solid #CDCDCD;
+    background-color: rgb(82, 8, 14);
+    color: #FFFFFF;
+    font-size: 50px;
+    font-weight: 700;
+    flex: 1;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    
+    &:hover {
+        opacity: 0.6;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    }
+}
+.class4 {
+    
+    padding: 30px;
+    border: 1px solid #CDCDCD;
+    background-color: rgb(146, 95, 0);
+    color: #FFFFFF;
+    font-size: 50px;
+    font-weight: 700;
+    flex: 1;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    
+    &:hover {
+        opacity: 0.6;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    }
+}
+.class5 {
+    
+    padding: 30px;
+    border: 1px solid #CDCDCD;
+    background-color: rgb(43, 44, 43);
+    color: #FFFFFF;
+    font-size: 50px;
+    font-weight: 700;
+    flex: 1;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    
+    &:hover {
+        opacity: 0.6;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    }
+}

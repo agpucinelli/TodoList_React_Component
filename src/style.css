@@ -1,0 +1,72 @@
+
+.class1 {
+    
+    padding: 30px;
+    border: 1px solid #CDCDCD;
+    background-color: forestgreen;
+    color: #FFFFFF;
+    font-size: 50px;
+    font-weight: 700;
+    flex: 1;
+    
+    &:hover {
+        opacity: 0.6;
+    }
+}
+
+.class2 {
+    
+    padding: 30px;
+    border: 1px solid #CDCDCD;
+    background-color: forestgreen;
+    color: #FFFFFF;
+    font-size: 50px;
+    font-weight: 700;
+    flex: 1;
+    
+    &:hover {
+        opacity: 0.6;
+    }
+}
+.class3 {
+    
+    padding: 30px;
+    border: 1px solid #CDCDCD;
+    background-color: forestgreen;
+    color: #FFFFFF;
+    font-size: 50px;
+    font-weight: 700;
+    flex: 1;
+    
+    &:hover {
+        opacity: 0.6;
+    }
+}
+.class4 {
+    
+    padding: 30px;
+    border: 1px solid #CDCDCD;
+    background-color: forestgreen;
+    color: #FFFFFF;
+    font-size: 50px;
+    font-weight: 700;
+    flex: 1;
+    
+    &:hover {
+        opacity: 0.6;
+    }
+}
+.class5 {
+    
+    padding: 30px;
+    border: 1px solid #CDCDCD;
+    background-color: forestgreen;
+    color: #FFFFFF;
+    font-size: 50px;
+    font-weight: 700;
+    flex: 1;
+    
+    &:hover {
+        opacity: 0.6;
+    }
+}
